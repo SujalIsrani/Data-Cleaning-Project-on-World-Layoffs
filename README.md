@@ -5,7 +5,7 @@ This project involves cleaning a dataset containing information on global layoff
 ## 📁 Files
 
 - `raw_data/layoffs.csv` — Original dataset
-- `cleaned_data/layoffs_staging2.csv` — Cleaned version of the dataset
+- `cleaned_data/layoffs_cleaned.csv` — Cleaned version of the dataset
 - `queries/world_layoffs.sql` — SQL queries used for cleaning
 
 ## 🧹 Cleaning Steps
