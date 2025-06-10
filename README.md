@@ -1,4 +1,4 @@
-# World Layoffs Data Cleaning Project
+# World Layoffs Data Cleaning and Analysis Project
 
 This project involves cleaning a dataset containing information on global layoffs. The dataset initially had approximately 2,300 rows and required several data cleaning steps to prepare it for analysis.
 
@@ -7,6 +7,7 @@ This project involves cleaning a dataset containing information on global layoff
 - `raw_data/layoffs.csv` — Original dataset
 - `cleaned_data/layoffs_cleaned.csv` — Cleaned version of the dataset
 - `queries/world_layoffs.sql` — SQL queries used for cleaning
+- `eda.sql` — SQL queries used for Exploratory Data Analysis
 
 ## 🧹 Cleaning Steps
 
